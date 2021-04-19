@@ -1,4 +1,9 @@
 # bite_detection_neural_network
+
+<p float="center">
+  <img src="architecture.JPG" width="500" /> 
+</p>
+
 This is further development of online bine detection algorithm. In this work, a simple two-layer neural network is proposed for prediction of bite and non-bite segment over a chewing sequence.
 
 ## Requirements

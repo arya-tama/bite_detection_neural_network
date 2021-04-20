@@ -14,7 +14,7 @@ pandas,
 matplotlib
 
 ## Wiki
-Run TensorFlow_BiteDetection.ipynb to see algorithm's workflow step by step. Hypermarameters can be adjusted to give different results in training and testing process.
+Run TensorFlow_BiteDetection.ipynb to see algorithm's workflow step by step. Hypermarameters can be adjusted to give different results in training phase and testing phase.
 
 ## Future work
 

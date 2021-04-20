@@ -4,7 +4,7 @@
   <img src="architecture.JPG" width="800" /> 
 </p>
 
-This is further development of online bine detection algorithm. In this project, a simple two-layer neural network is designed for prediction of bite and non-bite segment over a chewing sequence. Input layer contains 50 units, hidden layer contains 10 units and a single unit predicts the event at output layer. There are 452 samples splitted into train/test set with 70-30 percentage. Train accuracy of 99.34% and test accuracy of 91.54% can be achieved after fine-tuning the hyperparameters.
+This is further development of online bine detection algorithm. In this project, a simple two-layer neural network is designed for prediction of bite and non-bite segment over a chewing sequence. The input layer and the hidden layer contain 50 units and 10 units respectively, while a single unit predicts the event at output layer. There are 452 samples splitted into train/test set with 70-30 percentage. Training accuracy of 99.34% and testing accuracy of 91.54% can be achieved after fine-tuning the hyperparameters.
 
 ## Requirements
 tensorflow 1.15.0,
